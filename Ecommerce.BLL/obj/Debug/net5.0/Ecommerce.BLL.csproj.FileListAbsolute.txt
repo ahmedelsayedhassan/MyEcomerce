@@ -1,0 +1,15 @@
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.deps.json
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.dll
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.BLL.pdb
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.DAL.dll
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.AssemblyReference.cache
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.AssemblyInfoInputs.cache
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.AssemblyInfo.cs
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.csproj.CopyComplete
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.dll
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\refint\Ecommerce.BLL.dll
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\Ecommerce.BLL.pdb
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.BLL\obj\Debug\net5.0\ref\Ecommerce.BLL.dll

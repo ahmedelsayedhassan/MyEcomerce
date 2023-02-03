@@ -1,0 +1,15 @@
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.deps.json
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.json
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.dev.json
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.dll
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.AssemblyReference.cache
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfo.cs
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.dll
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\refint\Ecommerce.DAL.dll
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.pdb
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.genruntimeconfig.cache
+C:\Users\Ahmed Khaled\Desktop\Ecommerce Cycle37\Ecommerce.DAL\obj\Debug\net5.0\ref\Ecommerce.DAL.dll
